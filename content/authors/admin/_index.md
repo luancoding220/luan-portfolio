@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Luan Felix
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🖥️
 
 # Organizations/Affiliations
 #organizations:
@@ -45,12 +45,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/luan-felix-pereira-060991257/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab

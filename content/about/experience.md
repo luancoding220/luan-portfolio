@@ -9,11 +9,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Experience
+title: Experiência
 subtitle:
 
 # Date format for experience
-#   Refer to https://docs.hugoblox.com/customization/#date-format
+# Refer to https://docs.hugoblox.com/customization/#date-format
 date_format: Jan 2006
 
 # Experiences.
