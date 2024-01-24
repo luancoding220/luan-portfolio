@@ -32,8 +32,8 @@ content:
       tag: ML
     - name: Computer Vision
       tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Power BI
+      tag: PB
 
 design:
   columns: '1'

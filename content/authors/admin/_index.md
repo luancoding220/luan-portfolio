@@ -44,13 +44,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: "mailto:luanfp01@gmail.com" 
+    #'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/luan-felix-pereira-060991257/
+#  - icon: instagram
+#    icon_pack: fab
+#    link: https://instagram.com/geocushen
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -70,4 +71,4 @@ Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her r
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} meu currículo como PDF.

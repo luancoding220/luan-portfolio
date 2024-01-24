@@ -22,19 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Suporte Técnico TI
+    company: C.S.P.S.M.S.V
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: São Vicente(SP)
+    date_start: '2023-07-19'
+    date_end: '2024-07-19'
     description: |2-
-        Responsibilities include:
+        Responsabilidades inclusas:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Manutenção e supervisão da rede de computadores
+        * Manutenção de computadores e impressoras
+        * Conhecimento básico com servidores squid(linux)
 
   - title: Professor of Semiconductor Physics
     company: University X
