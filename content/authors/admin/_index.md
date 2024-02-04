@@ -44,8 +44,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:luanfp01@gmail.com" 
-    #'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: 'about/#contact'
+    # For a direct email link, use "mailto:test@example.org".
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/luan-felix-pereira-060991257/
@@ -67,8 +67,8 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Eu sou o _Luan_, um estudante com um interesse em ajudar e evoluir a área que estarei atuando, além de beneficiar a empresa e o meu grupo de trabalho com o meu conhecimento adquirido ao longo de tanto estudo e esforço feito.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+O crescimento profissional pessoal torna-se o foco principal, ademais possuo interesse em contribuir para projetos desafiadores, busco oportunidades para aplicar minha paixão por dados e habilidades em Ciência da Computação como Cientista de Dados. Através da análise de dados, sou apaixonado por conduzir a tomada de decisões informadas.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} meu currículo como PDF.

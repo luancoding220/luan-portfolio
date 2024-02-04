@@ -24,11 +24,11 @@ date_format: Jan 2006
 experience:
   - title: Suporte Técnico TI
     company: C.S.P.S.M.S.V
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'http://caixasaudesaovicente.sp.gov.br/'
+    company_logo: caixa
     location: São Vicente(SP)
     date_start: '2023-07-19'
-    date_end: '2024-07-19'
+    date_end: #2024-07-19'
     description: |2-
         Responsabilidades inclusas:
         
@@ -36,14 +36,14 @@ experience:
         * Manutenção de computadores e impressoras
         * Conhecimento básico com servidores squid(linux)
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+#  - title: Professor of Semiconductor Physics
+#    company: University X
+#    company_url: ''
+#    company_logo: org-x
+#    location: California
+#    date_start: '2016-01-01'
+#    date_end: '2020-12-31'
+#    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '1'

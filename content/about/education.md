@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Educação(Formação)
+title: Formação
 subtitle:
 
 # Date format for experience
@@ -22,26 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
+  - title: Técnico de Informática
+    company: Escola e Faculdade Fortec
+    company_url: 'https://www.fortec.edu.br/sao-vicente-presidente-wilson/'
+    company_logo: fortec
+    location: São Vicente(SP)
+    date_start: '2021-01-29'
+    date_end: '2023-12-01'
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * Ensino Técnico de Informática
+        * Aprendizado em várias áreas de TI
 
-  - title: BEng Electronic Engineering
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+  - title: Ensino Superior(Bacharelado) 
+    company: Universidade Católica de Santos 
+    company_url: 'https://www.unisantos.br/'
+    company_logo: unisantos
+    location: Santos(SP)
+    date_start: '2024-02-05'
+    date_end: '2028-12-05'
+    description: |2-
+        * Ciências da Computação
 
 design:
   columns: '1'
