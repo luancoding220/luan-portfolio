@@ -23,32 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-    
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+  - certificate_url: https://courses.edx.org/certificates/d6fd6291f92243b48bc2b3fd49c40a42?_gl=1*1rfqzco*_ga*NjAzODM0MTAxLjE3MDc0MTY0NzY.*_ga_D3KS4KMDT0*MTcwODcyMjMyOC4yLjEuMTcwODcyMjM0Ny40MS4wLjA.
+    date_end: '2022-12-10'
+    date_start: '2022-11-20'
+    description: Conhecimento básico geral sobre o uso e os aspectos de como usar Python em Ciência de Dados.
     organization: edX
     organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    title: Python Basics for Data Science
+#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 
 design:
   columns: '1'

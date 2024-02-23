@@ -42,13 +42,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'about/#contact'
-    # For a direct email link, use "mailto:test@example.org".
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/luancoding220
+
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/luan-felix-pereira-060991257/
+
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:luanfp01@gmail.com
+    
 #  - icon: instagram
 #    icon_pack: fab
 #    link: https://instagram.com/geocushen
@@ -69,6 +74,6 @@ social:
 
 Eu sou o _Luan_, um estudante com um interesse em ajudar e evoluir a área que estarei atuando, além de beneficiar a empresa e o meu grupo de trabalho com o meu conhecimento adquirido ao longo de tanto estudo e esforço feito.
 
-O crescimento profissional pessoal torna-se o foco principal, ademais possuo interesse em contribuir para projetos desafiadores, busco oportunidades para aplicar minha paixão por dados e habilidades em Ciência da Computação como Cientista de Dados. Através da análise de dados, sou apaixonado por conduzir a tomada de decisões informadas.
+O crescimento profissional pessoal torna-se o foco principal, ademais possuo interesse em contribuir para projetos desafiadores, busco oportunidades para aplicar minha paixão por dados e habilidades em Ciência da Computação. Através da análise de dados, sou apaixonado por conduzir a tomada de decisões informadas.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} meu currículo como PDF.
